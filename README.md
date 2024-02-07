@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### Prazer meu nome é Fabio, e atualmente estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas pela EAD Unicesumar. Nesse perfil por hora buscar postar meus projetos de faculdade afim de ganhar experiência na área de T.I. 
 <!--
 **Gakugeyu/Gakugeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
